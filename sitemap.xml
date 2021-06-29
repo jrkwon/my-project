@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://bimilab.github.io/my-project/</loc>
+         <loc>https://jrkwon.github.io/my-project/</loc>
          <lastmod>2021-06-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bimilab.github.io/my-project/about/</loc>
+         <loc>https://jrkwon.github.io/my-project/about/</loc>
+         <lastmod>2021-06-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jrkwon.github.io/my-project/contact/</loc>
          <lastmod>2021-06-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
